@@ -5,8 +5,8 @@
 🌱 My previous research work focuses on:
 * Automatic adaptation of data parallelism on a single node multicore architecture [[1]](https://hal.science/hal-04089941)
 * Automatic adaptation of pipeline parallelism on a single node multicore architecture [[2]](https://hal.science/hal-04253298)
-* Considering the hierarchical context state in granularity adaptation [[3]](https://)
-* Balanced workload-based dataflow resource allocation on heterogeneous multi-node, multi-core systems [[4]](https://)
+* Considering the hierarchical context state in granularity adaptation [[3]](https://hal.science/hal-04629332)
+* Balanced workload-based dataflow resource allocation on heterogeneous multi-node, multi-core systems [[soon]]()
 * Dataflow co-design for Pareto-optimal high-performance computing system [[5]](https://hal.science/hal-04608249v1)
 
 💞️ I’m looking to collaborate on interesting projects in resource allocation & automatic code generation.
