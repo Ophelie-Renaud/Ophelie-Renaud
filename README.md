@@ -1,8 +1,8 @@
 👋 Hi, I’m @Ophelie-Renaud.
 
-👀 I’m interested in dataflow, clustering, description granularity, resource allocation, heterogeneous multinode multicore target architecture, and network topology.
+👀 I’m interested in dataflow, clustering, description granularity, resource allocation, heterogeneous multinode multicore target architecture, network topology, and radio astronomy imaging algorithm.
 
-🌱 My previous research work focuses on:
+🌱 My PhD research work focuses on:
 * Automatic adaptation of data parallelism on a single node multicore architecture [[1]](https://hal.science/hal-04089941)
 * Automatic adaptation of pipeline parallelism on a single node multicore architecture [[2]](https://hal.science/hal-04253298)
 * Considering the hierarchical context state in granularity adaptation [[3]](https://hal.science/hal-04629332)
