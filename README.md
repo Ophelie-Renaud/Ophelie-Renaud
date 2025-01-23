@@ -9,6 +9,9 @@
 * Balanced workload-based dataflow resource allocation on heterogeneous multi-node, multi-core systems [[soon]]()
 * Dataflow co-design for Pareto-optimal high-performance computing system [[5]](https://hal.science/hal-04608249v1)
 * Automatic resource allocation and code generation for Nvidia GPU accelerated architecture [[6]](https://pretalx.com/adass2024/talk/review/AV7THCWCTY89PTKHDBMPVGGCAPKLRT98)
+  
+My postdoctoral research work focuses on:
+* Automatic exploration of radio-interferometric imaging algorithms and HPC architectures [[soon]]()
 
 💞️ I’m looking to collaborate on interesting projects in resource allocation & automatic code generation.
 
