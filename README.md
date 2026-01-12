@@ -17,11 +17,11 @@ My postdoctoral research work focuses on:
 
 📫 You can reach me on my email: ophelie.renaud@ens-paris-saclay.fr or visit my personal website [here](https://ophelie-renaud.github.io/).
 
-[![Ophelie-Renaud](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fophelie_renaud&style=social&logo=twitter&label=Ophelie-Renaud)](https://twitter.com/ophelie_renaud)
-[![Ophélie Renaud](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foph%25C3%25A9lie-renaud-27a4a8151%2F&style=social&logo=linkedin&label=Oph%C3%A9lie%20Renaud)](https://www.linkedin.com/in/oph%C3%A9lie-renaud-27a4a8151/)
-[![Ophélie Renaud](https://img.shields.io/twitter/url?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DcX4uHFkAAAAJ%26hl%3Dfr&style=social&logo=googlescholar&label=Oph%C3%A9lie%20Renaud)](https://scholar.google.com/citations?user=cX4uHFkAAAAJ&hl=fr)
-[![Ophélie Renaud](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FOphelie-Renaud&style=social&logo=researchgate&label=Oph%C3%A9lie%20Renaud)](https://www.researchgate.net/profile/Ophelie-Renaud)
-[![Ophélie Renaud](https://img.shields.io/twitter/url?url=https%3A%2F%2Fcv.hal.science%2Fophelie-renaud&style=social&logo=hal&label=Oph%C3%A9lie%20Renaud)](https://cv.hal.science/ophelie-renaud)
+[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fophelie_renaud&style=social&logo=twitter&label=Ophelie-Renaud)](https://twitter.com/ophelie_renaud)
+[![LinkedIn](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foph%25C3%25A9lie-renaud-27a4a8151%2F&style=social&logo=linkedin&label=Oph%C3%A9lie%20Renaud)](https://www.linkedin.com/in/oph%C3%A9lie-renaud-27a4a8151/)
+[![Scholar](https://img.shields.io/twitter/url?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DcX4uHFkAAAAJ%26hl%3Dfr&style=social&logo=googlescholar&label=Oph%C3%A9lie%20Renaud)](https://scholar.google.com/citations?user=cX4uHFkAAAAJ&hl=fr)
+[![ResearchGate](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FOphelie-Renaud&style=social&logo=researchgate&label=Oph%C3%A9lie%20Renaud)](https://www.researchgate.net/profile/Ophelie-Renaud)
+[![HAL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fcv.hal.science%2Fophelie-renaud&style=social&logo=hal&label=Oph%C3%A9lie%20Renaud)](https://cv.hal.science/ophelie-renaud)
 
 
 
