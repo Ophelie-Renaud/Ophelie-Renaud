@@ -2,7 +2,7 @@
 
 👀 I’m interested in dataflow, clustering, description granularity, resource allocation, heterogeneous multinode multicore target architecture, network topology, and radio astronomy imaging algorithm.
 
-🌱 My PhD research work focuses on:
+🌱 My PhD research work (2021-2024) focuses on:
 * Automatic adaptation of data parallelism on a single node multicore architecture [[1]](https://hal.science/hal-04089941)
 * Automatic adaptation of pipeline parallelism on a single node multicore architecture [[2]](https://hal.science/hal-04253298)
 * Considering the hierarchical context state in granularity adaptation [[3]](https://hal.science/hal-04629332)
@@ -10,8 +10,11 @@
 * Dataflow co-design for Pareto-optimal high-performance computing system [[5]](https://hal.science/hal-04608249v1)
 * Automatic resource allocation and code generation for Nvidia GPU-accelerated architecture [[6]](https://pretalx.com/adass2024/talk/review/AV7THCWCTY89PTKHDBMPVGGCAPKLRT98)
   
-My postdoctoral research work focuses on:
+My first postdoctoral research work (2024-2026) focuses on:
 * Automatic exploration of radio-interferometric imaging algorithms and HPC architectures [[7]](https://hal.science/hal-05260888)
+
+My current postdoctoral work focus (2026-today) focus on:
+Runtime, Compilation, and Directive Proposal Optimizations for the OpenMP Cluster Model
 
 💞️ I’m looking to collaborate on interesting projects in resource allocation & automatic code generation.
 
