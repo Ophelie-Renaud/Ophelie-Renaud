@@ -9,6 +9,8 @@
 * Balanced workload-based dataflow resource allocation on heterogeneous multi-node, multi-core systems 📄 [[4]](https://theses.hal.science/tel-04984281v1/document)
 * Dataflow co-design for Pareto-optimal high-performance computing system 📄 [[5]](https://hal.science/hal-04608249v1)
 * Automatic resource allocation and code generation for Nvidia GPU-accelerated architecture 📄 [[6]](https://pretalx.com/adass2024/talk/review/AV7THCWCTY89PTKHDBMPVGGCAPKLRT98)
+
+🔧 This research was conducted using and extending the [PREESM](https://github.com/preesm/preesm) framework.
   
 ### 📡 My first postdoctoral research work (2024-2026: SATIE, ENS Rennes, IRISA / ANR DARKERA 🇫🇷) focuses on:
 * Automatic exploration of radio-interferometric imaging algorithms and HPC architectures 📄 [[7]](https://hal.science/hal-05260888)
