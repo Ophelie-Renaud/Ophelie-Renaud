@@ -20,7 +20,7 @@
 
 💞️ I’m looking to collaborate on interesting projects in `resource allocation` & `compilation`.
 
-📫 You can reach me on my email: ophelie.renaud@ens-paris-saclay.fr or visit my personal website [here](https://ophelie-renaud.github.io/).
+📫 You can reach me on my [email](mailto:ophelie.renaud508@gmail.com) or visit my personal website [here](https://ophelie-renaud.github.io/).
 
 [![Twitter](https://img.shields.io/badge/Twitter-@ophelie_renaud-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ophelie_renaud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ophélie%20Renaud-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oph%C3%A9lie-renaud-27a4a8151/)
