@@ -15,7 +15,7 @@
 ### 📡 My first postdoctoral research work (2024-2026: SATIE, ENS Rennes, IRISA / ANR DARKERA 🇫🇷) focuses on:
 * Automatic exploration of radio-interferometric imaging algorithms and HPC architectures 📄 [[7]](https://hal.science/hal-05260888)
 
-### 📡 My current postdoctoral work focus (2026-today: IC-UNICAMP / FAPESP 🇧🇷) focus on:
+### 📡 My current postdoctoral work focus (2026-today: IC-UNICAMP / [FAPESP](https://bv.fapesp.br/pt/bolsas/239555/otimizacoes-de-runtime-compilacao-e-propostas-de-diretivas-para-o-modelo-openmp-cluster/) 🇧🇷) focus on:
 * Runtime, Compilation, and Directive Proposal Optimizations for the OpenMP Cluster Model
 
 💞️ I’m looking to collaborate on interesting projects in `resource allocation` & `compilation`.
